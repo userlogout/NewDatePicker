@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": false,
+    "editor.tabSize": 2,
+    "prettier.tabWidth": 2,
+    "editor.inlineSuggest.showToolbar": "always"
+  }
+  
